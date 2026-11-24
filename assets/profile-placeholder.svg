@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ead8ff"/><stop offset="1" stop-color="#a96be9"/></linearGradient>
+  <linearGradient id="cloth" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#24233b"/><stop offset="1" stop-color="#51446c"/></linearGradient>
+</defs>
+<rect width="600" height="720" fill="url(#bg)"/>
+<circle cx="300" cy="270" r="190" fill="#fff" opacity=".14"/>
+<path d="M92 720c16-145 89-220 208-220s192 75 208 220" fill="url(#cloth)"/>
+<path d="M184 252c0-120 49-190 128-190 86 0 129 76 129 194v92H184z" fill="#171522"/>
+<ellipse cx="310" cy="286" rx="105" ry="132" fill="#b77e69"/>
+<path d="M205 260c4-120 54-174 128-174 80 0 113 60 113 155-39-10-68-39-89-77-29 47-83 78-152 96z" fill="#171522"/>
+<path d="M205 283c-19-4-36 16-31 48 5 27 21 42 39 37M414 283c19-4 36 16 31 48-5 27-21 42-39 37" fill="#b77e69"/>
+<path d="M271 300q14 9 28 0M333 300q14 9 28 0" fill="none" stroke="#49313b" stroke-width="6" stroke-linecap="round"/>
+<path d="M290 362q21 15 43 0" fill="none" stroke="#784b50" stroke-width="5" stroke-linecap="round"/>
+<path d="M202 390c-24-58-22-128-8-177 15 58 38 89 65 107l-5 178zM413 390c24-58 22-128 8-177-15 58-38 89-65 107l5 178z" fill="#171522"/>
+<path d="M92 720c20-122 91-190 208-190s188 68 208 190" fill="url(#cloth)"/>
+<text x="300" y="665" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" letter-spacing="5" fill="#fff" opacity=".75">YOUR PHOTO HERE</text>
+</svg>
